@@ -1,1 +1,1 @@
-cd interstellar && npm i && npm run start
+https://bacadotcom.hop.sh/
